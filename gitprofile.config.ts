@@ -15,7 +15,7 @@ const CONFIG = {
         limit: 8,
         exclude: {
           forks: true,
-          projects: [],
+          projects: ['olivi-r/olivi-r'],
         },
       },
       manual: {
